@@ -7,7 +7,7 @@ A Service that Gathers Services and Information Related to Starting Higher Educa
 
 ![Mockups of the Kontti web service](https://github.com/user-attachments/assets/106f61e4-3683-4d29-a0b7-c208727cff14)
 
-## Project' Basics
+## Project's Basis
 
 - **Client:** Digital and Population Data Services Agency (Digi- ja väestötietovirasto, DVV)
 - **Course:** "HTI.310 Methods in Human-Centered Design", Tampere University
@@ -237,13 +237,13 @@ Fit the design to the screen, if needed: Options -> Fit width
 
 
 ## Prototype Evaluation
-- Prototype presentation to a student from the target group (1 person) and collecting feedback verbally.
-- The student also participated in the interview during the research phase.
-- Due to the timeline and the prototype's incomplete status, formal usability testing was not conducted.
+- Prototype presentation to a student from the target group (1 person) and collecting feedback verbally
+- The student also participated in the interview during the research phase
+- Due to the timeline and the prototype's incomplete status, formal usability testing was not conducted
 - Based on the feedback, small adjustments were made to the prototype
   - For example, improving the readability of the homepage and standardizing buttons
   - The remaining suggestions were incorporated into further development proposals
-- Overall, the prototype received a fairly positive reception.
+- Overall, the prototype received a quite positive response
 
 ## Notes and Development Ideas
 
