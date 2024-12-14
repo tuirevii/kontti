@@ -3,7 +3,9 @@ A Service that Gathers Services and Information Related to Starting Higher Educa
 
 **UI & UX Design | Figma | Interactive Prototype of a Web Service**
 
+[See the prototype in Figma](https://www.figma.com/proto/k35UlU1xkaF64iq1s9Xdrc/Prototyyppi---desktop?node-id=56-14452&starting-point-node-id=56%3A14452&show-proto-sidebar=1&t=tQNFfnplWyiwIhuB-1)
 
+_If needed, select "Fit to screen" from the settings on the top right of the screen._
 
 ![Mockups of the Kontti web service](https://github.com/user-attachments/assets/106f61e4-3683-4d29-a0b7-c208727cff14)
 
@@ -184,7 +186,7 @@ Each team member created wireframes of the main views. After that we discussed t
 - Accessibility has also been considered in the font size
 - Design choices are justified and explained in more detail in the design brief (PDF)
 
-[See the prototype in Figma](https://tinyurl.com/kontti-proto)
+[See the prototype in Figma](https://www.figma.com/proto/k35UlU1xkaF64iq1s9Xdrc/Prototyyppi---desktop?node-id=56-14452&starting-point-node-id=56%3A14452&show-proto-sidebar=1&t=tQNFfnplWyiwIhuB-1)
 
 Fit the design to the screen, if needed: Options -> Fit width
 
